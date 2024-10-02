@@ -2,7 +2,7 @@
 
 int main() {
     int i, j;
-    int rows = 5; // 피라미드의 줄 수
+    int rows = 5; 
 
     for (i = 1; i <= rows; i++) {
         
